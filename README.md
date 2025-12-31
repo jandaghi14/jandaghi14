@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jan
+# 👋 Hi, I'm Jandaghi14
 
 I'm learning Python development, currently building web scrapers and data pipelines. My goal is to land a Junior Python Developer role in the UK by June 2026.
 
