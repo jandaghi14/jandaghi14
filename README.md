@@ -19,7 +19,7 @@ Concurrent weather monitoring for multiple cities using async patterns, error ha
 
 ## 📊 GitHub Stats
 
-![jandaghi14's GitHub stats]([![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jandaghi14&theme=dark)](https://git.io/streak-stats))
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jandaghi14&theme=dark)](https://git.io/streak-stats)
 
 ## 📫 Connect
 
