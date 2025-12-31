@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Jan
 
-<!--
-**jandaghi14/jandaghi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Python development, currently building web scrapers and data pipelines. My goal is to land a Junior Python Developer role in the UK by June 2026.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python | AsyncIO | aiohttp | BeautifulSoup | Flask | SQLite | pytest | Git
+
+## 🚀 Featured Projects
+
+### [Async Data Pipeline](https://github.com/jandaghi14/async-data-pipeline)
+Multi-source data aggregator combining async/await with generators. Fetches from 3 APIs concurrently and processes data through generator pipeline.
+
+### [Currency Rate Monitor](https://github.com/jandaghi14/currency-rate-monitor)
+Real-time currency tracking system with concurrent API fetching, error handling, and SQLite storage. Built with professional testing and documentation.
+
+### [Multi-City Weather Tracker](https://github.com/jandaghi14/multi-city-weather)
+Concurrent weather monitoring for multiple cities using async patterns, error handling, and database persistence.
+
+## 📊 GitHub Stats
+
+![jandaghi14's GitHub stats](https://github-readme-stats.vercel.app/api?username=jandaghi14&show_icons=true&theme=dark)
+
+## 📫 Connect
+
+Open to opportunities and collaboration!
