@@ -8,13 +8,13 @@ Python | AsyncIO | aiohttp | BeautifulSoup | Flask | SQLite | pytest | Git
 
 ## 🚀 Featured Projects
 
-### [Async Data Pipeline](https://github.com/jandaghi14/async-data-pipeline)
+### [Async Data Pipeline](https://github.com/jandaghi14/elementary---async-data-pipeline-generators)
 Multi-source data aggregator combining async/await with generators. Fetches from 3 APIs concurrently and processes data through generator pipeline.
 
-### [Currency Rate Monitor](https://github.com/jandaghi14/currency-rate-monitor)
+### [Currency Rate Monitor](https://github.com/jandaghi14/elementary---currency-rate-monitor---asyncio-aiohttp-aioresponses-sqlite3)
 Real-time currency tracking system with concurrent API fetching, error handling, and SQLite storage. Built with professional testing and documentation.
 
-### [Multi-City Weather Tracker](https://github.com/jandaghi14/multi-city-weather)
+### [Multi-City Weather Tracker](https://github.com/jandaghi14/elementary---multi-city-weather-tracker)
 Concurrent weather monitoring for multiple cities using async patterns, error handling, and database persistence.
 
 ## 📊 GitHub Stats
