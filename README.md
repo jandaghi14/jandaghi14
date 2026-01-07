@@ -8,6 +8,10 @@ Python | AsyncIO | aiohttp | BeautifulSoup | Flask | SQLite | pytest | Git
 
 ## 🚀 Featured Projects
 
+
+### [job-board-scraper](https://github.com/jandaghi14/job-board-scraper)
+A Python async web scraper that collects job listings from Reed.co.uk and stores them in a SQLite database.
+
 ### [Async Data Pipeline](https://github.com/jandaghi14/elementary---async-data-pipeline-generators)
 Multi-source data aggregator combining async/await with generators. Fetches from 3 APIs concurrently and processes data through generator pipeline.
 
