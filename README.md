@@ -26,5 +26,5 @@ Concurrent weather monitoring for multiple cities using async patterns, error ha
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jandaghi14&theme=dark)](https://git.io/streak-stats)
 
 ## 📫 Connect
-
+You can find me on LinkedIn : https://www.linkedin.com/in/ali-jandaghi-9a3188b1/
 Open to opportunities and collaboration!
