@@ -58,6 +58,6 @@ A production-grade REST API built with FastAPI and PostgreSQL, covering all core
 
 - LinkedIn: [ali-jandaghi-9a3188b1](https://www.linkedin.com/in/ali-jandaghi-9a3188b1/)
 - GitHub: [jandaghi14](https://github.com/jandaghi14)
-- Gmail: [jandaghi14@gmail.com]
+- Gmail: jandaghi14@gmail.com
 
 Open to Junior Python Backend Developer roles in the UK — remote or hybrid.
